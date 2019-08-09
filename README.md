@@ -15,14 +15,14 @@ Historically, systems have been coordinated between systems by means of data lin
 This system operates only on Windows OS.
 
 ## Prerequisite
-- Owning the Corda Enterprise 3.2 jar files[^1]
+- Owning the Corda Enterprise 3.2 jar files\[^1]
     You will need:
     - corda-3.2.jar
     - corda-webserver-3.2.jar
     - corda-tools-network-bootstrapper-3.2.jar
 - Installation of JDK8
 
-[^1]:When you do not own those files, please make inquiries with R3.
+\[^1]:When you do not own those files, please make inquiries with R3.
 
 ## Installation
 1. Download the "tsc.zip" and unzip it to any directory.
